@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en **Nucleo IT**
 
-- 👨‍💻 All of my projects are available at [https://github.com/EliasDottori](https://github.com/EliasDottori)
+- 👨‍💻 Todos mis proyectos estan disponibles en [https://github.com/EliasDottori](https://github.com/EliasDottori)
 
 - 📫 Puedes contactarme a **elias.dottori@hotmail.com**
 
